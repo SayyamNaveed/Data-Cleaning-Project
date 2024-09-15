@@ -1,6 +1,7 @@
 
 -- Exploratory Data Analysis 
 -- in exploratory data analysis we sometimes explore data and sometimes even clean it at the same time but here we are only going to explore data and try bring positive insight from it 
+
 select *
 from layoffs_staging2; 
 
